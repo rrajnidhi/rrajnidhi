@@ -10,16 +10,16 @@ Working with **ROS, ROS2, PX4, and onboard AI for real-world aerial systems**
 
 ---
 
-## 🚀 Projects CI Status
+## Active CI Status
 
 ![PX4 Docker CI](https://github.com/rrajnidhi/px4_1.16_ros2_xrce_dds/actions/workflows/docker-image.yml/badge.svg)
 
 ---
 
-## 🛠 Technical Expertise
+## Technical Expertise
 
 ### **Aerial Robotics**
-- VTOLs & FW UAVs
+- VTOLs & FW UAVs testing
 - PX4, MAVLink, MAVROS, uRTPS, DDS, Zenoh
 - UAV Navigation
 
