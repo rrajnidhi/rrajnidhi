@@ -10,9 +10,11 @@ Working with **ROS, ROS2, PX4, and onboard AI for real-world aerial systems**
 
 ---
 
-## Active CI Status
+## Active project CI Status
 
-![PX4 Docker CI](https://github.com/rrajnidhi/px4_1.16_ros2_xrce_dds/actions/workflows/docker-image.yml/badge.svg)
+
+**PX4 1.16 ROS2 XRCE-DDS (Docker CI)**  
+[![PX4 Docker CI](https://github.com/rrajnidhi/px4_1.16_ros2_xrce_dds/actions/workflows/docker-image.yml/badge.svg)](https://github.com/rrajnidhi/px4_1.16_ros2_xrce_dds)
 
 ---
 
