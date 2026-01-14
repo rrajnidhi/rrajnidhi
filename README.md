@@ -1,11 +1,11 @@
-## 👋 Hi, I'm Nidhiraj
+## Hi, I'm Nidhiraj
 
 UAV Robotics Engineer building autonomous aerial systems using ROS, PX4, and deep learning.  
 Focused on real-time perception, navigation, and sim-to-real deployment for drones.
 
 ---
 
-## 🚁 About Me
+## About Me
 
 I am a **UAV-focused robotics engineer** working on autonomous aerial systems that integrate **perception, planning, and control** into reliable, real-world deployments. My work emphasizes **robust autonomy pipelines** that operate under real-time constraints and scale from simulation to flight hardware.
 
